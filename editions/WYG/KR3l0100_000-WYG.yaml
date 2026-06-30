@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3l0100/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十二
+  hash: sha256:b91c7627c34399fce720371900e7def4c0469982b792a8bd4a0a78b88d470d59
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3l0100_WYG_000-1a, image: WYG1042/WYG1042-0469a.png}
+body:
+  text: 捜神後記小説家𩔖二異聞之屬提要臣等謹案捜神後記十卷舊本題晉陶潜撰中記桃花源事一條全錄本集所載詩序惟增注漁人姓黄名道真七字又載干寳父婢事亦全錄晉書剽掇之迹顯然可見明沈士龍䟦謂潜卒于元嘉四年而此有十四十六年事陶集多不稱年號以干支代之而此書題永初元年其為偽托固不待辨然其書文詞古雅非唐以後人所能隋書經籍志著錄已稱陶潜則贋撰嫁名其來已乆又陸羽茶經引其中晉武帝時宣城人秦精入武昌山採茗一條與此本所載相合封演見聞記引其中有人因病能飲茗一斛二斗後吐一物一條與此本桓宣武督將一條僅文有詳畧及牛肺字作牛肚茗瘕字作斛二瘕其事亦與此本所載相合知今所傳刻猶古本矣其中丁令威化鶴阿香雷車諸事唐宋詞人並逓相援引承用至今題陶潜撰者固妄要不失為六代遺書也乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:b485b9ef1d330cbddcddc746a5f55829275dabaf909dcdd649dd53eb6cdc5acd
+metadata:
+  title: 搜神後記
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:40:39.011052'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3l0100/KR3l0100_000.txt
+hash: sha256:b11260c5ee2095c5cd7de784bcbc644067bd4cf3f5382827c84302589177eb5c
