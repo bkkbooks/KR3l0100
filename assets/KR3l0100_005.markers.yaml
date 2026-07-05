@@ -457,7 +457,6 @@ markers:
   - {type: variant, offset: 748, length: 5, content: 絕吳望子會, WYG: 絶㑹}
   - {type: page-break, offset: 748, content: '', id: KR3l0100_WYG_005-3b, image: WYG1042/WYG1042-0482d.png}
   - {type: variant, offset: 748, length: 5, content: 絕吳望子會, krp: 絶㑹}
-  - {type: substitution, offset: 748, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 749, content: 。, id: KR3l0100_CHANT_005-bkkpn190}
   - {type: xml-element, offset: 749, content: '', id: KR3l0100_CHANT_005-bkkxmlele12}
   - {type: xml-element, offset: 749, content: '', id: KR3l0100_CHANT_005-bkkxmlele13}
@@ -744,7 +743,6 @@ markers:
   - {type: 'tls:seg', offset: 1197, content: '', id: KR3l0100_CHANT_005-9a.10}
   - {type: variant, offset: 1198, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 1198, length: 1, content: 眾, krp: 衆}
-  - {type: substitution, offset: 1198, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 1202, content: 。, id: KR3l0100_CHANT_005-bkkpn305}
   - {type: 'tls:seg', offset: 1202, content: '', id: KR3l0100_CHANT_005-9a.11}
   - {type: punctuation, offset: 1207, content: ，, id: KR3l0100_CHANT_005-bkkpn306}
@@ -785,4 +783,4 @@ markers:
   - {type: page-break, offset: 1256, content: '', id: KR3l0100_WYG_005-5b, image: WYG1042/WYG1042-0483d.png}
   - {type: variant, offset: 1256, length: 0, content: '', krp: 搜神後記卷五}
   back: []
-hash: sha256:db5a6c8f0ad3fead40f67933cc9e0a89835caf9a4de840d3f2bff7ec02c00df5
+hash: sha256:16a02d493be332bf6f088aa4fc3a15fe4d869bf064cc11ec47a8fdad6d5a40f4
