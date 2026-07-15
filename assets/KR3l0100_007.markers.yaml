@@ -143,6 +143,7 @@ markers:
   - {type: variant, offset: 222, length: 1, content: 從, krp: 遂}
   - {type: variant, offset: 225, length: 3, content: 絕山𤢖, WYG: 絶}
   - {type: variant, offset: 225, length: 3, content: 絕山𤢖, krp: 絶}
+  - {type: substitution, offset: 225, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 226, content: 。, id: KR3l0100_CHANT_007-bkkpn57}
   - {type: xml-element, offset: 226, content: '', id: KR3l0100_CHANT_007-bkkxmlele4}
   - {type: xml-element, offset: 226, content: '', id: KR3l0100_CHANT_007-bkkxmlele5}
@@ -264,6 +265,7 @@ markers:
   - {type: variant, offset: 420, length: 1, content: 專, krp: 専}
   - {type: punctuation, offset: 424, content: 。, id: KR3l0100_CHANT_007-bkkpn109}
   - {type: 'tls:seg', offset: 424, content: '', id: KR3l0100_CHANT_007-2a.47}
+  - {type: substitution, offset: 425, original: 廻, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16348}}
   - {type: punctuation, offset: 429, content: 。, id: KR3l0100_CHANT_007-bkkpn110}
   - {type: 'tls:seg', offset: 429, content: '', id: KR3l0100_CHANT_007-2a.48}
   - {type: page-break, offset: 429, content: '', id: KR3l0100_WYG_007-2b, image: WYG1042/WYG1042-0489d.png}
@@ -376,6 +378,7 @@ markers:
   - {type: 'tls:seg', offset: 609, content: '', id: KR3l0100_CHANT_007-3a.21}
   - {type: variant, offset: 609, length: 1, content: 產, WYG: 産}
   - {type: variant, offset: 609, length: 1, content: 產, krp: 産}
+  - {type: substitution, offset: 609, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20835}}
   - {type: punctuation, offset: 614, content: ，, id: KR3l0100_CHANT_007-bkkpn156}
   - {type: 'tls:seg', offset: 614, content: '', id: KR3l0100_CHANT_007-3a.22}
   - {type: punctuation, offset: 619, content: 。, id: KR3l0100_CHANT_007-bkkpn157}
@@ -390,6 +393,7 @@ markers:
   - {type: 'tls:seg', offset: 636, content: '', id: KR3l0100_CHANT_007-3a.27}
   - {type: variant, offset: 639, length: 6, content: 絕周子文失魂, WYG: 絶}
   - {type: variant, offset: 639, length: 6, content: 絕周子文失魂, krp: 絶}
+  - {type: substitution, offset: 639, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 640, content: 。, id: KR3l0100_CHANT_007-bkkpn162}
   - {type: xml-element, offset: 640, content: '', id: KR3l0100_CHANT_007-bkkxmlele12}
   - {type: xml-element, offset: 640, content: '', id: KR3l0100_CHANT_007-bkkxmlele13}
@@ -827,4 +831,4 @@ markers:
   - {type: page-break, offset: 1310, content: '', id: KR3l0100_WYG_007-5b, image: WYG1042/WYG1042-0491b.png}
   - {type: variant, offset: 1310, length: 0, content: '', krp: 捜神後記卷七}
   back: []
-hash: sha256:323ff9b20d4ad005b9e71af8289e161304651399acf82644d8c2b55b2f41a872
+hash: sha256:bdfd9677418887b846585c37f1c27414c11babe2ba70cc461e9369ae6f90aac3
